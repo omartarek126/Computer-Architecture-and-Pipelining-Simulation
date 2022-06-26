@@ -18,7 +18,8 @@ A simulation of a fictional processor design and architecture based on the Harva
 - Instruction Size: 16 bits
 - Instruction Types: 2 (R-Format and I-Format)
 
-![image](https://user-images.githubusercontent.com/61099815/175110922-c1866f9e-2c97-4b83-a766-83b9f3811655.png)
+![image](https://user-images.githubusercontent.com/68354610/175125804-42fdad48-bc3b-480f-9601-c5f34f3775cd.png)
+![image](https://user-images.githubusercontent.com/68354610/175125868-ad52e179-0d31-4d85-b030-52e83439e7b1.png)
 ![image](https://user-images.githubusercontent.com/68354610/175104906-647def9a-7583-458b-ac2b-0cad6cddbfad.png)
 
 ## Flags:
